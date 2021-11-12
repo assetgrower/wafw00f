@@ -164,5 +164,5 @@ wafdetectionsprio = [
     'Yunjiasu (Baidu Cloud Computing)',
     'YXLink (YxLink Technologies)',
     'Zenedge (Zenedge)',
-    'ZScaler (Accenture)'
+    'ZScaler (Zscaler)'
 ]
